@@ -1,12 +1,24 @@
 # 🌴 Intro 🌴
 <div>
   
-![](https://komarev.com/ghpvc/?username=luhcs)
+![](https://komarev.com/ghpvc/?username=luhcs) <a href="http://facebook.com/lucas.gomes213"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width='80'></a> <a href="http://instagram.com/luhcs_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width='85'></a> <a href="https://www.linkedin.com/in/lgmssilva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width='80'></a> <a href="mailto:lgmssilva@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width='140'></a>
 <img align='right' src="https://media.discordapp.net/attachments/922505483850489869/922546168494424094/retro-gif.gif?width=406&height=406" width='180'>
 </br>
   Olá, me chamo **Lucas Gomes**, estou iniciando no mundo da programação a partir do Javascript. Atualmente trabalho como Assistente de Cadastro no departamento de compras, mas busco transição de carreira urgentemente!
-</div>
+ </div>
+ 
+ ##
+ 
+  ##### Atualmente:
+  
+  - ✨ Trabalhando na minha [Homepage](http://luhcs.vercel.app/);
 
+  ##### BIO
+- 🏢 Trabalho atualmente na **Palusa - Distribuidora de Autopeças**;
+- ⚙️ Uso diariamente:  `.psd`, `.vba`, `.js`, `.html`, `.css`;
+- 🌱 Aprendendo tudo sobre **Front and back-end**;
+- 💬 Ping me sobre: **internship**,  **development**, **learn opportunity**;
+- 👾 Fun fact: Sou um grande fã de conteúdo Retrowave e astronomia;
 
 
 ## ☕️ Tech Stack ☕️
