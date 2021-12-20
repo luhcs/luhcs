@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=luhcs)
 <img align='right' src="https://media.discordapp.net/attachments/922505483850489869/922546168494424094/retro-gif.gif?width=406&height=406" width='180'>
 </br>
-  Olá pessoal, me chamo **Lucas Gomes**, estou iniciando no mundo da programação a partir do Javascript. Atualmente trabalho como Assistente de Cadastro no departamento de compras, mas busco transição de carreira urgentemente!
+  Olá, me chamo **Lucas Gomes**, estou iniciando no mundo da programação a partir do Javascript. Atualmente trabalho como Assistente de Cadastro no departamento de compras, mas busco transição de carreira urgentemente!
 </div>
 
 
