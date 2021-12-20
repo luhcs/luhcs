@@ -2,7 +2,7 @@
 <div>
   
 ![](https://komarev.com/ghpvc/?username=luhcs)
-<img align='right' src="https://media.discordapp.net/attachments/922505483850489869/922505809278144512/download20211103150803.png?width=406&height=406" width='180'>
+<img align='right' src="https://media.discordapp.net/attachments/922505483850489869/922545383421390878/matrix.gif?width=406&height=406" width='180'>
 </br>
   Olá pessoal, me chamo **Lucas Gomes**, estou iniciando no mundo da programação a partir do Javascript. Atualmente trabalho como Assistente de Cadastro no departamento de compras, mas busco transição de carreira urgentemente!
 </div>
