@@ -13,7 +13,7 @@
   
   - ✨ Trabalhando na minha [Homepage](http://luhcs.vercel.app/);
 
-  ##### BIO
+  ##### BIO:
 - 🏢 Trabalho atualmente na **Palusa - Distribuidora de Autopeças**;
 - ⚙️ Uso diariamente:  `.psd`, `.vba`, `.js`, `.html`, `.css`;
 - 🌱 Aprendendo tudo sobre **Front and back-end**;
