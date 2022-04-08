@@ -12,10 +12,11 @@
  
   ##### Atualmente:
   
-  - ✨ Trabalhando na minha [Homepage](http://luhcs.vercel.app/);
+  - ✨ Estudando sobre Python em machine learning ;
+  - ✨ Estudando a lingua alemã.
 
   ##### BIO:
-- 🏢 Trabalho atualmente na **Palusa - Distribuidora de Autopeças**;
+- 🏢 Trabalho atualmente na **Palusa - Distribuidora de Autopeças** e como **Freelancer**;
 - ⚙️ Uso diariamente:  `.psd`, `.vba`, `.js`, `.html`, `.css`;
 - 🌱 Aprendendo tudo sobre **Front and back-end**;
 - 💬 Ping me sobre: **internship**,  **development**, **learn opportunity**;
